@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+runs.csv
+cla_vs_ride_height.png
+.DS_Store
